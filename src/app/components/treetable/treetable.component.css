@@ -1,0 +1,55 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+.tree-container {
+    font-family: "Roboto";
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 30px;
+    margin-top: -55px;
+
+}
+
+.search-icon{
+  margin-left: 160px;
+}
+
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+.input{    
+  
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    font-size: 16px;
+    background-color: black;
+    background-image: "C:\\Users\\237420\\Desktop\\UST-Projects\\Tree-Table-Task\\src\\app\\309077_search_icon.png";
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    outline: none;
+}
+
+.search-bar{
+  padding: 30px;
+  box-shadow: #969696;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* padding: 30px; */
+}
+
